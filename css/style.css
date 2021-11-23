@@ -4,15 +4,12 @@
     grid-template-columns: 2fr 1fr;
   }
   #title {
-    /* font-size: 20px; */
-    font-size: 100px;
+    font-size: 20px;
   }
 
   #input,
   p {
-    /* font-size: 20px; */
-    font-size: 50px;
-    color: red;
+    font-size: 20px;
   }
 }
 

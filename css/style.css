@@ -9,13 +9,13 @@
 
   #input,
   p {
-    font-size: 20px;
+    /* font-size: 20px; */
+    font-size: 50px;
   }
 }
 
 body {
   font-family: "Lato", "Roboto Condensed", sans-serif;
-  font-size: 1000px;
 }
 
 #title {
